@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: cecc0747d02ff3e4c8bba8d28b59678f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5904474782402610210
+    second: RopaAnimaciones_0
+  - first:
+      213: -2402652361955793629
+    second: RopaAnimaciones_1
+  - first:
+      213: 2109657448679353142
+    second: RopaAnimaciones_2
+  - first:
+      213: 4057499845700589449
+    second: RopaAnimaciones_3
+  - first:
+      213: -1685413931163019464
+    second: RopaAnimaciones_4
+  - first:
+      213: -1994960654678830214
+    second: RopaAnimaciones_5
+  - first:
+      213: 5007609841233676724
+    second: RopaAnimaciones_6
+  - first:
+      213: -6107432446536684306
+    second: RopaAnimaciones_7
+  - first:
+      213: -8921110541461350193
+    second: RopaAnimaciones_8
+  - first:
+      213: -6888027859853401931
+    second: RopaAnimaciones_9
+  - first:
+      213: 8526782829814381650
+    second: RopaAnimaciones_10
+  - first:
+      213: 1467006774010957578
+    second: RopaAnimaciones_11
+  - first:
+      213: -3158591560879576685
+    second: RopaAnimaciones_12
+  - first:
+      213: -7926521779782701948
+    second: RopaAnimaciones_13
+  - first:
+      213: -1245246980473388590
+    second: RopaAnimaciones_14
+  - first:
+      213: -4034347084987176112
+    second: RopaAnimaciones_15
+  - first:
+      213: 611063891188867811
+    second: RopaAnimaciones_16
+  - first:
+      213: 2716420951599108533
+    second: RopaAnimaciones_17
+  - first:
+      213: 1926931199703119545
+    second: RopaAnimaciones_18
+  - first:
+      213: -3399514250779946742
+    second: RopaAnimaciones_19
+  - first:
+      213: -9106904499647373200
+    second: RopaAnimaciones_20
+  - first:
+      213: -6220438450183335365
+    second: RopaAnimaciones_21
+  - first:
+      213: -8503364513116960881
+    second: RopaAnimaciones_22
+  - first:
+      213: 596938850879685786
+    second: RopaAnimaciones_23
+  - first:
+      213: 8690267826518622523
+    second: RopaAnimaciones_24
+  - first:
+      213: -8875303194826341519
+    second: RopaAnimaciones_25
+  - first:
+      213: 1454934455219877563
+    second: RopaAnimaciones_26
+  - first:
+      213: -7045973225763319514
+    second: RopaAnimaciones_27
+  - first:
+      213: 5644921585971224081
+    second: RopaAnimaciones_28
+  - first:
+      213: -203077467093536600
+    second: RopaAnimaciones_29
+  - first:
+      213: 2881053316215112227
+    second: RopaAnimaciones_30
+  - first:
+      213: 4670939838827672206
+    second: RopaAnimaciones_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RopaAnimaciones_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbf3a9f7771f0ea0800000000000000
+      internalID: -5904474782402610210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3252fd6186018aed0800000000000000
+      internalID: -2402652361955793629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2a4aa542074d10800000000000000
+      internalID: 2109657448679353142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9879f23bc922f4830800000000000000
+      internalID: 4057499845700589449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837988595f43c98e0800000000000000
+      internalID: -1685413931163019464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73dcf4bad97054e0800000000000000
+      internalID: -1994960654678830214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9cb708e9a9e7540800000000000000
+      internalID: 5007609841233676724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6c766c8a0e3ba0800000000000000
+      internalID: -6107432446536684306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc814368a39d13480800000000000000
+      internalID: -8921110541461350193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a172e72fc860a0800000000000000
+      internalID: -6888027859853401931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c7cff8ec7355670800000000000000
+      internalID: 8526782829814381650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc30073eadb5410800000000000000
+      internalID: 1467006774010957578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e937d5bd6a24d0800000000000000
+      internalID: -3158591560879576685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca7a310765ff190800000000000000
+      internalID: -7926521779782701948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d18147087ef7bee0800000000000000
+      internalID: -1245246980473388590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be4ba73be1308c0800000000000000
+      internalID: -4034347084987176112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e261691f5fea7800800000000000000
+      internalID: 611063891188867811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_17
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b15e78967aa2b520800000000000000
+      internalID: 2716420951599108533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_18
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6fbe087b5ddba10800000000000000
+      internalID: 1926931199703119545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_19
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a011261eccf72d0d0800000000000000
+      internalID: -3399514250779946742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_20
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 720
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ac17ab96cd9180800000000000000
+      internalID: -9106904499647373200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_21
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3214a5df209ca9a0800000000000000
+      internalID: -6220438450183335365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_22
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874000370bfdf980800000000000000
+      internalID: -8503364513116960881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 490
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94405fd8b0c84800800000000000000
+      internalID: 596938850879685786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_24
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3106a29b880a9870800000000000000
+      internalID: 8690267826518622523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_25
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1738c7684c694d480800000000000000
+      internalID: -8875303194826341519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_26
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb67bdead27f03410800000000000000
+      internalID: 1454934455219877563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_27
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 260
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621d67daeaca73e90800000000000000
+      internalID: -7045973225763319514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_28
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11edfbc364ac65e40800000000000000
+      internalID: 5644921585971224081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_29
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f000ae168e2df0800000000000000
+      internalID: -203077467093536600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_30
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32286f30abe8bf720800000000000000
+      internalID: 2881053316215112227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RopaAnimaciones_31
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 30
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823b84290382d040800000000000000
+      internalID: 4670939838827672206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 2cd7c7ceb4c7d424ba8d0568311e1459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8410340717578628922
+    second: Escenario_0
+  - first:
+      213: -2287387070785329457
+    second: Escenario_1
+  - first:
+      213: 2691942787279535779
+    second: Escenario_2
+  - first:
+      213: -1305353396912659229
+    second: Escenario_3
+  - first:
+      213: -3704217290752878392
+    second: Escenario_4
+  - first:
+      213: 9173851097897114584
+    second: Escenario_5
+  - first:
+      213: -7535306028114284534
+    second: Escenario_6
+  - first:
+      213: 8925360836147461087
+    second: Escenario_7
+  - first:
+      213: 1963852556468867804
+    second: Escenario_8
+  - first:
+      213: 1151814357055333420
+    second: Escenario_9
+  - first:
+      213: 4643421963486823984
+    second: Escenario_10
+  - first:
+      213: -1233528983760812060
+    second: Escenario_11
+  - first:
+      213: -8584911087311798788
+    second: Escenario_12
+  - first:
+      213: -8940255133169566449
+    second: Escenario_13
+  - first:
+      213: 4275274898883850306
+    second: Escenario_14
+  - first:
+      213: 6602838493669282703
+    second: Escenario_15
+  - first:
+      213: -4691810022233071688
+    second: Escenario_16
+  - first:
+      213: -5265398680124056645
+    second: Escenario_17
+  - first:
+      213: 8447898727005528767
+    second: Escenario_18
+  - first:
+      213: 359725743860725565
+    second: Escenario_19
+  - first:
+      213: -7321964696045563916
+    second: Escenario_20
+  - first:
+      213: 5043737963970411464
+    second: Escenario_21
+  - first:
+      213: -6962844843336034594
+    second: Escenario_22
+  - first:
+      213: 1229830429139090275
+    second: Escenario_23
+  - first:
+      213: 8935165527565601227
+    second: Escenario_24
+  - first:
+      213: -6408628257290411257
+    second: Escenario_25
+  - first:
+      213: 88651500736351046
+    second: Escenario_26
+  - first:
+      213: -7194268518823485604
+    second: Escenario_27
+  - first:
+      213: -6096896591228245715
+    second: Escenario_28
+  - first:
+      213: 896008612970631893
+    second: Escenario_29
+  - first:
+      213: 6910862420761325871
+    second: Escenario_30
+  - first:
+      213: 3044963585815236109
+    second: Escenario_31
+  - first:
+      213: 5289883159768750358
+    second: Escenario_32
+  - first:
+      213: 5701019189332941111
+    second: Escenario_33
+  - first:
+      213: -611527261872734789
+    second: Escenario_34
+  - first:
+      213: -5575922261284088858
+    second: Escenario_35
+  - first:
+      213: -1494275165355902926
+    second: Escenario_36
+  - first:
+      213: 5685962047788292799
+    second: Escenario_37
+  - first:
+      213: -5849002159357681416
+    second: Escenario_38
+  - first:
+      213: -944955696787942519
+    second: Escenario_39
+  - first:
+      213: 1671444636524614189
+    second: Escenario_40
+  - first:
+      213: -8743711162463800340
+    second: Escenario_41
+  - first:
+      213: -5710894797196182541
+    second: Escenario_42
+  - first:
+      213: 3632527840035517310
+    second: Escenario_43
+  - first:
+      213: -4303029799342985198
+    second: Escenario_44
+  - first:
+      213: -3245055041590352864
+    second: Escenario_45
+  - first:
+      213: -1013798651506667411
+    second: Escenario_46
+  - first:
+      213: 442440550311824286
+    second: Escenario_47
+  - first:
+      213: 534378637772896673
+    second: Escenario_48
+  - first:
+      213: 5247963997833592993
+    second: Escenario_49
+  - first:
+      213: -7100363264783153028
+    second: Escenario_50
+  - first:
+      213: -8508219489115334858
+    second: Escenario_51
+  - first:
+      213: 8846204643629975836
+    second: Escenario_52
+  - first:
+      213: -2924853261739318080
+    second: Escenario_53
+  - first:
+      213: 2689835376088520987
+    second: Escenario_54
+  - first:
+      213: 233445815571180320
+    second: Escenario_55
+  - first:
+      213: 6303625436849380608
+    second: Escenario_56
+  - first:
+      213: -7823699870284744762
+    second: Escenario_57
+  - first:
+      213: 2801313625410005904
+    second: Escenario_58
+  - first:
+      213: -5712796292553237444
+    second: Escenario_59
+  - first:
+      213: 1164857437667243986
+    second: Escenario_60
+  - first:
+      213: 5140503692019223335
+    second: Escenario_61
+  - first:
+      213: 3369036758902736302
+    second: Escenario_62
+  - first:
+      213: -4275503619439251930
+    second: Escenario_63
+  - first:
+      213: -497116591138160852
+    second: Escenario_64
+  - first:
+      213: 8646803839450829969
+    second: Escenario_65
+  - first:
+      213: 8286951201302451175
+    second: Escenario_66
+  - first:
+      213: 5433533860407465426
+    second: Escenario_67
+  - first:
+      213: -4983954254385373381
+    second: Escenario_68
+  - first:
+      213: -2708133862891371990
+    second: Escenario_69
+  - first:
+      213: -3468159397498442231
+    second: Escenario_70
+  - first:
+      213: -5207208374397636580
+    second: Escenario_71
+  - first:
+      213: 7647032546754585575
+    second: Escenario_72
+  - first:
+      213: 5356106748257092457
+    second: Escenario_73
+  - first:
+      213: -445514310971365998
+    second: Escenario_74
+  - first:
+      213: -3097374148299123101
+    second: Escenario_75
+  - first:
+      213: 5136471453318646481
+    second: Escenario_76
+  - first:
+      213: 2772888683144770815
+    second: Escenario_77
+  - first:
+      213: 922590932610716466
+    second: Escenario_78
+  - first:
+      213: 3642616615705126927
+    second: Escenario_79
+  - first:
+      213: -6328099846631714246
+    second: Escenario_80
+  - first:
+      213: -1094365868773050644
+    second: Escenario_81
+  - first:
+      213: -8615610510233214115
+    second: Escenario_82
+  - first:
+      213: 4434173170412899169
+    second: Escenario_83
+  - first:
+      213: 577471087178284797
+    second: Escenario_84
+  - first:
+      213: 5767825266556055413
+    second: Escenario_85
+  - first:
+      213: -1201069277147125505
+    second: Escenario_86
+  - first:
+      213: -4048808444960056156
+    second: Escenario_87
+  - first:
+      213: 8080240531595785664
+    second: Escenario_88
+  - first:
+      213: -4462701430261839914
+    second: Escenario_89
+  - first:
+      213: -3766888585169948002
+    second: Escenario_90
+  - first:
+      213: 6584680927062229450
+    second: Escenario_91
+  - first:
+      213: 3928239186656501146
+    second: Escenario_92
+  - first:
+      213: -3875873021824608572
+    second: Escenario_93
+  - first:
+      213: 2711067395713294072
+    second: Escenario_94
+  - first:
+      213: -440809313468486955
+    second: Escenario_95
+  - first:
+      213: -5779419155165393770
+    second: Escenario_96
+  - first:
+      213: 158605669100737915
+    second: Escenario_97
+  - first:
+      213: 533211012292171784
+    second: Escenario_98
+  - first:
+      213: -7408644810649543847
+    second: Escenario_99
+  - first:
+      213: 4720080005944404807
+    second: Escenario_100
+  - first:
+      213: -4009342374929012401
+    second: Escenario_101
+  - first:
+      213: -6983103846196501453
+    second: Escenario_102
+  - first:
+      213: 8940810182144260228
+    second: Escenario_103
+  - first:
+      213: -8059292597899285266
+    second: Escenario_104
+  - first:
+      213: -2765613203551613326
+    second: Escenario_105
+  - first:
+      213: -9060106206793868525
+    second: Escenario_106
+  - first:
+      213: -1409130700755084607
+    second: Escenario_107
+  - first:
+      213: -1213395358347954635
+    second: Escenario_108
+  - first:
+      213: -4074038279855156692
+    second: Escenario_109
+  - first:
+      213: 7511757617717939034
+    second: Escenario_110
+  - first:
+      213: -8641641729587053973
+    second: Escenario_111
+  - first:
+      213: 6375708638308446789
+    second: Escenario_112
+  - first:
+      213: -2994711377668672193
+    second: Escenario_113
+  - first:
+      213: -4600315008047914468
+    second: Escenario_114
+  - first:
+      213: -4765298688605479462
+    second: Escenario_115
+  - first:
+      213: 5987069096326124009
+    second: Escenario_116
+  - first:
+      213: -5373283782168050570
+    second: Escenario_117
+  - first:
+      213: 3398664035495689792
+    second: Escenario_118
+  - first:
+      213: 6174382402305834681
+    second: Escenario_119
+  - first:
+      213: 1307225765071562698
+    second: Escenario_120
+  - first:
+      213: 1972199245468318042
+    second: Escenario_121
+  - first:
+      213: -8732909048979701727
+    second: Escenario_122
+  - first:
+      213: -3587083862820066716
+    second: Escenario_123
+  - first:
+      213: -421901548439219556
+    second: Escenario_124
+  - first:
+      213: 3723719614420144634
+    second: Escenario_125
+  - first:
+      213: 655145439508176676
+    second: Escenario_126
+  - first:
+      213: 4396091635525472551
+    second: Escenario_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Escenario_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d8b06da7784b80800000000000000
+      internalID: -8410340717578628922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6e40604919140e0800000000000000
+      internalID: -2287387070785329457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb877d3b3bb5520800000000000000
+      internalID: 2691942787279535779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4eba6600472ede0800000000000000
+      internalID: -1305353396912659229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c890d5fff9f79cc0800000000000000
+      internalID: -3704217290752878392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1c78e7f0105f70800000000000000
+      internalID: 9173851097897114584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00736857173d6790800000000000000
+      internalID: -7535306028114284534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb0c254604ddb70800000000000000
+      internalID: 8925360836147461087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2d193ce71014b10800000000000000
+      internalID: 1963852556468867804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246a7f1e011cff00800000000000000
+      internalID: 1151814357055333420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03601e38cafb07040800000000000000
+      internalID: 4643421963486823984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c9cebcef91eee0800000000000000
+      internalID: -1233528983760812060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdb774d9d44cd880800000000000000
+      internalID: -8584911087311798788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0db01ae255dde380800000000000000
+      internalID: -8940255133169566449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240bd118ed3d45b30800000000000000
+      internalID: 4275274898883850306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83de6c60aef1ab50800000000000000
+      internalID: 6602838493669282703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1e2f94a753eeb0800000000000000
+      internalID: -4691810022233071688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb15663ccb8de6b0800000000000000
+      internalID: -5265398680124056645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a3a12227fc3570800000000000000
+      internalID: 8447898727005528767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b16b78a00ef400800000000000000
+      internalID: 359725743860725565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc04207e7236a90800000000000000
+      internalID: -7321964696045563916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbbb9294f4fef540800000000000000
+      internalID: 5043737963970411464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69bc671810f5f90800000000000000
+      internalID: -6962844843336034594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b3dc6624c311110800000000000000
+      internalID: 1229830429139090275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc90ddfe4b5100c70800000000000000
+      internalID: 8935165527565601227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703acaaed8aff07a0800000000000000
+      internalID: -6408628257290411257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b023af114fa3100800000000000000
+      internalID: 88651500736351046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escenario_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f10c426e2d82c90800000000000000
+      internalID: -7194268518823485604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

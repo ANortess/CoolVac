@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b80cd3749353ab469e92b527e690a0b, type: 3}
+  m_Name: Ropa_3
+  m_EditorClassIdentifier: 
+  ropaJugable: {fileID: 4080625650364196333, guid: a97c151b65ed2ae4fa1ae4fc9675b02c, type: 3}
+  imagenRopa: {fileID: -4034347084987176112, guid: cecc0747d02ff3e4c8bba8d28b59678f, type: 3}
